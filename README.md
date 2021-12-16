@@ -13,7 +13,7 @@
 
 <div align="center" >
    <p align="center"><img height="130em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></p>
-  Meu nome é Pedro Henrique, tenho 25 anos. Atualmente faço graduação em Sistemas de Informação na UFPE. Gosto da área de programação, tenho conhecimentos em Java e é no quero me especializar. Estou participando da PAN Academy que tem foco em Java e AWS. Mais informações no Linkedin abaixo! 👇
+  Meu nome é Pedro Henrique, tenho 25 anos. Atualmente faço graduação em Sistemas de Informação na UFPE. Gosto da área de programação, tenho conhecimentos em Java e é no quero me especializar. Concluí recentemente o PAN Academy, treinamento que tem foco em Java e AWS. Mais informações no Linkedin abaixo! 👇
 </div>
 
     
