@@ -1,30 +1,43 @@
-## <p  align="center">Olá! Bem vindo ao meu perfil! ☕</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div align="center">
-  <a href="https://github.com/PedroHenriquebc"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquebc&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/PedroHenriquebc"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquebc&layout=compact&langs_count=7&theme=gruvbox_light"/>
-</div>  
-    
-  ##
-  
- 
+<p align="left"> 
+  Olá! Eu sou Pedro Henrique, <strong>Desenvolvedor Backend Jr</strong>.<br>
+  Atualmente faço graduação em Sistemas de Informação <br> 
+  e sou fascinado por programação!
+</p>
 
-<div align="center" >
-   <p align="center"><img height="130em" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></p>
-  Meu nome é Pedro Henrique, tenho 25 anos. Atualmente faço graduação em Sistemas de Informação na UFPE. Gosto da área de programação, tenho conhecimentos em Java e é no quero me especializar. Concluí recentemente o PAN Academy, treinamento que tem foco em Java e AWS. Mais informações no Linkedin abaixo! 👇
-</div>
+<p align="left">
+  🦄 Linguagens: <strong>Java e estudando Javascript!</strong>
+</p>
 
-    
-  ##
-  
-  <div align="center"> 
-<!--- <a href="https://www.instagram.com/p_henriquebc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --->
-  <a href = "mailto:pedrohbc96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ◽ 
-  <a href="https://www.linkedin.com/in/pedro-henriquebc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> ◽
- <!--- <a href="https://www.facebook.com/pedrohbc1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> --->
-   <a href="https://api.whatsapp.com/send?phone=5581993956156&text=Olá" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- </div>
+<p align="left">
+  💾 Bancos de dados: <strong>MySQL e MongoDB</strong>
+</p>
+
+<p align="left">
+  💼 Objetivos: <strong>Atualmente meu foco está em desenvolver Backend com Spring Boot,
+                         mas estou estudando em paralelo linguagens voltadas à Frontend 
+                         e também micro serviços e ferramentas de cloud computing como
+                         AWS e GCP. Por isso estou trabalhando em projetos com essas tecnologias!
+  </strong>
+</p>
+
+<p align="left">
+  💌 Você pode entrar em contato comigo por aqui: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:pedrohbc96@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrohbc96@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/pedro-henriquebc/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henriquebc/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5581993956156&text=Olá" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581993956156&text=Olá"/></a>
+
+</p>   
+
+##  
    
  ![Snake animation](https://github.com/PedroHenriquebc/PedroHenriquebc/blob/output/github-contribution-grid-snake.svg)
