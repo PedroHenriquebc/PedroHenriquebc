@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java e estudando Javascript!</strong>
+  🚀 Linguagens: <strong>Java e estudando Javascript!</strong>
 </p>
 
 <p align="left">
