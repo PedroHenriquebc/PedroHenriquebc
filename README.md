@@ -28,14 +28,14 @@
 </p>
 
 <p align="left">
-  💾 Bancos de dados: <strong>MySQL e MongoDB</strong>
+  💾 Bancos de dados: <strong>MySQL, PostgreSQL e MongoDB</strong>
 </p>
 
 <p align="left">
   💼 Objetivos: <strong>Atualmente meu foco está em desenvolver Backend com Spring Boot,
                          mas estou estudando em paralelo linguagens voltadas à Frontend 
                          e também micro serviços e ferramentas de cloud computing como
-                         AWS e GCP. Por isso estou trabalhando em projetos com essas tecnologias!
+                         AWS. Por isso estou trabalhando em projetos com essas tecnologias!
   </strong>
 </p>
 
@@ -45,10 +45,10 @@
 
 <p align="left">
   <a href="mailto:pedrohbc96@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrohbc96@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrohbc96@gmail.com" /></a>▫️
 
   <a href="https://www.linkedin.com/in/pedro-henriquebc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henriquebc/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henriquebc/" /></a>▫️
 
   <a href="https://api.whatsapp.com/send?phone=5581993956156&text=Olá" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581993956156&text=Olá"/></a>
@@ -62,7 +62,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)▫️
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)▫️
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)▫️
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)▫️
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)▫️
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)▫️
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)▫️
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)▫️
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
