@@ -24,23 +24,34 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Java e estudando Javascript!</strong>
+ <strong> 🚀 Principais Stacks: </strong>
+                         <br>
+                        • Linguagem Java (JavaEE, Hibernate, Spring Framework, Maven, JUnit) <br>
+                        • Programação estruturada e orientada à objetos <br>
+                        • Banco de dados relacional(MySQL e PostgreSQL) e não relacional(MongoDB) <br>
+                        • Versionamento de código com Git e Github <br>
+                        • Testes unitários com JUnit <br>
+                        • Metodologias ágeis <br>
 </p>
 
 <p align="left">
-  💾 Bancos de dados: <strong>MySQL, PostgreSQL e MongoDB</strong>
+   <strong>💾 Bancos de dados:</strong> <br>
+      • MySQL <br>
+      • PostgreSQL <br>
+      • MongoDB <br>
 </p>
 
 <p align="left">
-  💼 Objetivos: <strong>Atualmente meu foco está em desenvolver Backend com Spring Boot,
+   <strong>💼 Objetivos: </strong> <br>Atualmente meu foco está em desenvolver Backend com Spring Boot,
                          mas estou estudando em paralelo linguagens voltadas à Frontend 
                          e também micro serviços e ferramentas de cloud computing como
-                         AWS. Por isso estou trabalhando em projetos com essas tecnologias!
-  </strong>
+                         AWS. Por isso estou trabalhando em projetos com essas tecnologias em busca de me tornar
+                         um desenvolvedor Fullstack!
+  
 </p>
 
 <p align="left">
-  💌 Você pode entrar em contato comigo por aqui: ⤵️
+   <strong> 💌 Você pode entrar em contato comigo por aqui: ⤵️ </strong>
 </p>
 
 <p align="left">
