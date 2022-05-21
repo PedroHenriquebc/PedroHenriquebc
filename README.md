@@ -24,29 +24,28 @@
 </p>
 
 <p align="left">
- <strong> 🚀 Principais Stacks: </strong>
+ <strong> 🚀💾 Principais Stacks: </strong>
                          <br>
-                        • Linguagem Java (JavaEE, Hibernate, Spring Framework, Maven, JUnit) <br>
-                        • Programação estruturada e orientada à objetos <br>
-                        • Banco de dados relacional(MySQL e PostgreSQL) e não relacional(MongoDB) <br>
-                        • Versionamento de código com Git e Github <br>
+                        • Programação Orientada a Objetos <br>
+                        • Java 8+ <br>
+                        • Spring Boot <br>
+                        • Design de APIs REST <br>
                         • Testes unitários com JUnit <br>
                         • Metodologias ágeis <br>
+                        • Bancos de Dados (SQL ou NoSQL) <br>
+                        • Spring Data e JPA <br>
+                        • Solid e Desing Patterns <br>
+                        • Git <br>
+                        • Maven <br>
+                        
 </p>
 
 <p align="left">
-   <strong>💾 Bancos de dados:</strong> <br>
-      • MySQL <br>
-      • PostgreSQL <br>
-      • MongoDB <br>
-</p>
-
-<p align="left">
-   <strong>💼 Objetivos: </strong> <br>Atualmente meu foco está em desenvolver Backend com Spring Boot,
+   <strong>💼 Objetivos: </strong> <br>Atualmente meu foco está em Desenvolvimento Back-end,
                          mas estou estudando em paralelo linguagens voltadas à Frontend 
-                         e também micro serviços e ferramentas de cloud computing como
+                         e também microsserviços e ferramentas de cloud computing como
                          AWS. Por isso estou trabalhando em projetos com essas tecnologias em busca de me tornar
-                         um desenvolvedor Fullstack!
+                         um Desenvolvedor Fullstack!
   
 </p>
 
@@ -60,9 +59,6 @@
 
   <a href="https://www.linkedin.com/in/pedro-henriquebc/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henriquebc/" /></a>▫️
-
-  <a href="https://api.whatsapp.com/send?phone=5581993956156&text=Olá" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581993956156&text=Olá"/></a>
 
 </p>   
 
