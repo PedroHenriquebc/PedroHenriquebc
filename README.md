@@ -1,78 +1,48 @@
-<pre align="center">
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
-
-
-</pre>
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+Hi, my name is Pedro Henrique
+==========================
+
+Back-end Developer
+-----------------------------
+
+I'm a 26 years old developer programming since i was 23. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end, developing Web Services with Java an i'm also starting to learn Mobile Development and Cloud Computing too.
+
+<br>
+
+* 🌍  I'm based in Pernambuco, Brazil
+* ✉️  You can contact me at [pedrohbc96@gmail.com](mailto:pedrohbc96@gmail.com)
+* 🧠  I'm learning Advanced Java Development and Kotlin programming language
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  I love to play games in my spare time
+
+<br>
+
+### Skills
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="36" height="36" alt="Java" />
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="Java" />
+</p>
+
+<br>
+
+### Socials
+
 <p align="left"> 
-  Eu sou Pedro Henrique, <strong>Desenvolvedor Backend Jr</strong>.<br>
-  Atualmente faço graduação em Sistemas de Informação <br> 
-  e sou fascinado por programação!
+<a href="https://www.github.com/PedroHenriquebc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/pedro-henriquebc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
-
-<p align="left">
- <strong> 🚀💾 Principais Stacks: </strong>
-                         <br>
-                        • Programação Orientada a Objetos <br>
-                        • Java 8+ <br>
-                        • Spring Boot <br>
-                        • Design de APIs REST <br>
-                        • Testes unitários com JUnit <br>
-                        • Metodologias ágeis <br>
-                        • Bancos de Dados (SQL ou NoSQL) <br>
-                        • Spring Data e JPA <br>
-                        • Solid e Desing Patterns <br>
-                        • Git <br>
-                        • Maven <br>
-                        
-</p>
-
-<p align="left">
-   <strong>💼 Objetivos: </strong> <br>Atualmente meu foco está em Desenvolvimento Back-end,
-                         mas estou estudando em paralelo linguagens voltadas à Frontend 
-                         e também microsserviços e ferramentas de cloud computing como
-                         AWS. Por isso estou trabalhando em projetos com essas tecnologias em busca de me tornar
-                         um Desenvolvedor Fullstack!
-  
-</p>
-
-<p align="left">
-   <strong> 💌 Você pode entrar em contato comigo por aqui: ⤵️ </strong>
-</p>
-
-<p align="left">
-  <a href="mailto:pedrohbc96@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrohbc96@gmail.com" /></a>▫️
-
-  <a href="https://www.linkedin.com/in/pedro-henriquebc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henriquebc/" /></a>▫️
-
-</p>   
-
-##  
-   
- ![Snake animation](https://github.com/PedroHenriquebc/PedroHenriquebc/blob/output/github-contribution-grid-snake.svg)
- 
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">▫️
-<img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">▫️
-<img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg">▫️
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">▫️
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">▫️
-<img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg">▫️
-<img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">▫️
-<img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">▫️
-<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">▫️
-<img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
