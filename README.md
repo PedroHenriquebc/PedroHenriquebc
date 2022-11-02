@@ -35,7 +35,6 @@ I'm a 26 years old developer programming since i was 23. I love to code and figu
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="36" height="36" alt="Java" />
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="36" alt="Java" />
 <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="36" height="36" alt="Java" />
-<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="Java" />
 </p>
 
 <br>
