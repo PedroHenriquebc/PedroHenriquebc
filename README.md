@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 Hi, my name is Pedro Henrique
-==========================
+-
 
 Back-end Developer
------------------------------
+
 
 I'm a 26 years old developer programming since i was 23. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end, developing Web Services with Java and i'm also starting to learn Mobile Development and Cloud Computing too.
 
