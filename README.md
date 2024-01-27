@@ -4,16 +4,16 @@
 Pedro Henrique
 -
 
-Back-end Developer
+Aspiring Back-end Developer
 
 
-I'm a 26 years old developer programming since i was 23. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end, developing Web Services with Java and i'm also starting to learn about Microservices and Mobile Development.
+I'm a 27 years old aspiring developer, programming since i was 23. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus is back-end, developing Web Services with Java and i'm also starting to learn about Microservices and Node.js.
 
 <br>
 
 * 🌍  I'm based in Pernambuco, Brazil
 * ✉️  You can contact me at [pedrohbc96@gmail.com](mailto:pedrohbc96@gmail.com)
-* 🧠  I'm learning Advanced Java Development and Dart programming language to mobile development with Flutter
+* 🧠  I'm learning Advanced Java Development and Node.js programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love to play games in my spare time
 
@@ -25,8 +25,7 @@ I'm a 26 years old developer programming since i was 23. I love to code and figu
 ![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-000?style=for-the-badge&logo=junit5&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-000?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 -
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
