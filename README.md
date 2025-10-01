@@ -1,3 +1,3 @@
 
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hvbjljM3JwYWdkY3FvaHNvcm5uYWdiNGE4d291em1iNWlzcXZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" min-width="400px" max-width="400px" width="400px" align="" alt="Computador iuriCode"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNwaDNnZTIzY2pwN3RreXljZmdwMWxiOTQ2emZ3ZXRxaGRhNWtkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BGvxTWb2OS5Nm5dzCr/giphy.gif" min-width="400px" max-width="400px" width="300px" align="" alt="Computador iuriCode"> </p>
 
